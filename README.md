@@ -1,11 +1,10 @@
 
-## Hey! I'm Déborah Melo
-<h3>🚀 This is my GitHub, growing every day!</h3>
+# Hey! I'm Déborah Melo
+### 🚀 This is my GitHub, growing every day! <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/tree.gif" width="50">
 
-🌱 **Learning:** Python, Flutter;
-
-🤓 **Knowledge:** Linux;
-
+<li> 🌱 Learning: Python, Flutter </li>
+<li> 🤓 Knowledge: Linux <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/penguin-spin.gif" width="30"></li>
+<li> 💎 Improving: Docker, Bash-Shell, Git, 
 <div style="display: inline_block"><br>
   <a href="https://github.com/dehmelo">
     <img align="center" height="250px" width="350px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dehmelo&langs_count=7&theme=midnight-purple" />
@@ -15,13 +14,15 @@
   ##
   
 <div style="display: inline_block"><br>
-  <!---<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="SS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-
+  <img align="center" alt="Linux" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/tux.svg">
+  <img align="center" alt="Python" height="50" width="50" src="https://github.com/dehmelo/dehmelo/blob/main/assets/python.png">
+  <img align="center" alt="Flutter" height="60" width="65" src="https://github.com/dehmelo/dehmelo/blob/main/assets/flutter.png">
+  <img align="center" alt="Docker" height="50" width="65" src="https://github.com/dehmelo/dehmelo/blob/main/assets/docker.png">
+  <img align="center" alt="Bash-Shell" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/bash.png">
+  <img align="center" alt="Git" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/Git.png">
+</div>
+  
+  
   ##
   
 <div>
