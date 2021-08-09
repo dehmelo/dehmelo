@@ -1,7 +1,10 @@
-## Heey! I'm Déborah Melo
 
-- 🌱 **Learning:** Python, Flutter;
-- 🤓 **Knowledge:** Linux;
+## Hey! I'm Déborah Melo
+<h3>🚀 This is my GitHub, growing every day!</h3>
+
+🌱 **Learning:** Python, Flutter;
+
+🤓 **Knowledge:** Linux;
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/dehmelo">
