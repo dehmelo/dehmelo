@@ -17,6 +17,5 @@
   <img aling="right" alt="Tux_kiss" height="100" width="110" src="https://media.discordapp.net/attachments/874281119682543646/874300602862145606/20210729_142821-ANIMATION.gif">
 </div>
 
-<div>
-   ![Snake animation](https://github.com/dehmelo/dehmelo/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/dehmelo/dehmelo/blob/output/github-contribution-grid-snake.svg)
+
