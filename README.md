@@ -37,6 +37,8 @@
  <a href="https://www.linkedin.com/in/deborah-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/crushlinux" target="_blank"> <img align="right" alt="Crush_Linux" height="120" width="120"src="https://media.discordapp.net/attachments/874281119682543646/874300602862145606/20210729_142821-ANIMATION.gif"></a>
 </div>
-
+ 
+  
 ![Snake animation](https://github.com/dehmelo/dehmelo/blob/output/github-contribution-grid-snake.svg)
 
+  <img align="right" src="https://komarev.com/ghpvc/?username=dehmelo&color=green" alt="dehmelo" />
