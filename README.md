@@ -41,4 +41,4 @@
   
 ![Snake animation](https://github.com/dehmelo/dehmelo/blob/output/github-contribution-grid-snake.svg)
 
-  <img align="right" src="https://komarev.com/ghpvc/?username=dehmelo&color=green" alt="dehmelo" />
+  
