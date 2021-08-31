@@ -33,7 +33,7 @@
 <a href="https://www.youtube.com/channel/UCvuFK4EM9HqCH3pXzOxsy7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/crushlinux" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://t.me/crushlinux" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-  <a href="https://discord.com/invite/Y7RCxQbbqt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <!-- <a href="https://discord.com/invite/Y7RCxQbbqt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
  <a href="https://www.linkedin.com/in/deborah-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/crushlinux" target="_blank"> <img align="right" alt="Crush_Linux" height="120" width="120"src="https://media.discordapp.net/attachments/874281119682543646/874300602862145606/20210729_142821-ANIMATION.gif"></a>
 </div>
