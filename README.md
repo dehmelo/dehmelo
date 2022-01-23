@@ -4,7 +4,7 @@
 <h3>  🚀 This is my GitHub, growing day by day, on the path of my Journey! <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/tree.gif" width="50"></h3>
 
 <li> 🌱 Learning: Python, Flutter, HTML, CSS </li>
-<li> 🤓 Knowledge: Linux, Docker, ShellScript, Bash, Git, Vagrant <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/penguin-spin.gif" width="30"></li>
+<li> 🤓 Knowledge: Linux, Docker, ShellScript, Git, Vagrant <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/penguin-spin.gif" width="30"></li>
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/dehmelo">
