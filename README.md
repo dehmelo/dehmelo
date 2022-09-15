@@ -12,7 +12,7 @@
 <div align="center"style="display: inline_block"><br>
   <img align="center" alt="Linux" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/tux.svg">
   <img align="center" alt="Bash-Shell" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/bash.png">
-  <img align="center" alt="Ansible" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/vagrant.png">
+  <img align="center" alt="Ansible" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/ansible01.png">
   <img align="center" alt="Vagrant" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/vagrant.png">
   <img align="center" alt="Git" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/Git.png">
   <img align="center" alt="Docker" height="50" width="65" src="https://github.com/dehmelo/dehmelo/blob/main/assets/docker.png">
