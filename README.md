@@ -4,7 +4,7 @@
 <h3>  🚀 This is my GitHub, growing little by little, on the way to my Journey! <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/tree.gif" width="50"></h3>
 
 <li> 🌱 Learning: Python, Flutter, HTML, CSS  </li>
-<li> 🛠️ Build up: ShellScript, Vagrant, Git, Docker </li>
+<li> 🛠️ Build up: Ansible, ShellScript, Vagrant, Git, Docker </li>
 <li> 🤓 Knowledge: Linux <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/penguin-spin.gif" width="30"></li>
 
 ##
@@ -12,6 +12,7 @@
 <div align="center"style="display: inline_block"><br>
   <img align="center" alt="Linux" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/tux.svg">
   <img align="center" alt="Bash-Shell" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/bash.png">
+  <img align="center" alt="Ansible" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/vagrant.png">
   <img align="center" alt="Vagrant" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/vagrant.png">
   <img align="center" alt="Git" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/Git.png">
   <img align="center" alt="Docker" height="50" width="65" src="https://github.com/dehmelo/dehmelo/blob/main/assets/docker.png">
