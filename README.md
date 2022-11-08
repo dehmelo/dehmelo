@@ -4,17 +4,17 @@
 <h3>  🚀 This is my GitHub, growing little by little, on the way to my Journey! <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/tree.gif" width="50"></h3>
 
 <li> 🌱 Learning: Python, Flutter, HTML, CSS  </li>
-<li> 🛠️ Build up: Ansible, ShellScript, Vagrant, Git, Docker </li>
-<li> 🤓 Knowledge: Linux <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/penguin-spin.gif" width="30"></li>
+<li> 🛠️ Build up: ShellScript, Docker </li>
+<li> 🤓 Knowledge: Linux, Ansible, Vagrant, Git  <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/penguin-spin.gif" width="30"></li>
 
 ##
 
 <div align="center"style="display: inline_block"><br>
   <img align="center" alt="Linux" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/tux.svg">
-  <img align="center" alt="Bash-Shell" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/bash.png">
   <img align="center" alt="Ansible" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/ansible01.png">
   <img align="center" alt="Vagrant" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/vagrant.png">
   <img align="center" alt="Git" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/Git.png">
+  <img align="center" alt="Bash-Shell" height="60" width="60" src="https://github.com/dehmelo/dehmelo/blob/main/assets/bash.png">
   <img align="center" alt="Docker" height="50" width="65" src="https://github.com/dehmelo/dehmelo/blob/main/assets/docker.png">
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/dehmelo/dehmelo/blob/main/assets/python.png">
   <img align="center" alt="Flutter" height="60" width="65" src="https://github.com/dehmelo/dehmelo/blob/main/assets/flutter.png">
@@ -35,8 +35,7 @@
   
 <h3> Follow Me: <img align="center" src="https://github.com/dehmelo/dehmelo/blob/main/assets/pikachu-hi.gif" width="50"></h3>
 <div>
-<a href="https://www.youtube.com/channel/UCvuFK4EM9HqCH3pXzOxsy7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/crushlinux" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/deborah-melo/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
   
 ![Snake animation](https://github.com/dehmelo/dehmelo/blob/output/github-contribution-grid-snake.svg)
